@@ -5,8 +5,8 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) del famoso co
 ## Contenido del Repositorio
 
 
-- **notebooks/** - Notebooks de Jupyter con el código y los análisis paso a paso.
-- **images/** - Imágenes y gráficos generados durante el EDA.
+- **notebooks** - Notebooks de Jupyter con el código y los análisis paso a paso.
+- **images** - Imágenes y gráficos generados durante el EDA.
 - **README.md** - Este archivo, con información general sobre el proyecto.
 
 ## Requisitos
